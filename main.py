@@ -9,4 +9,4 @@ if (int(age) >= 18):
 else:
     print ("Ti nuk mund te votosh")
 
-print ("test")
+print ("test222")
